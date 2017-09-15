@@ -26,13 +26,12 @@ public class A1Q5 {
         
         if(number <= 10 && number >= 1){
             for(int i = 0; i < number ;i++){
-                for(i = 0; i < number ;i++){
+                for(int l = 0; l < number ;l++){
                 System.out.print("*");
                 }
                 System.out.println("");
-                System.out.print("*");
             }
-            System.out.println("");
+            
         }
         
         
